@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Fichiers du jeu : jamais modifiés par Git
+*.pck binary
+*.wasm binary
+*.png binary
