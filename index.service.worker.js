@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793897829|3904522';
+const CACHE_VERSION = '1793899635|4865192';
 /** @type {string} */
 const CACHE_PREFIX = 'WikiCartes-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
