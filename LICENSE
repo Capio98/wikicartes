@@ -1,0 +1,32 @@
+WikiCartes
+Copyright (c) 2026 Capio98. Tous droits réservés.
+
+Le jeu WikiCartes (son code, ses règles, la façon dont ses cartes sont créées à partir
+des articles de Wikipédia, son interface et l'ensemble de ses fichiers publiés ici) est
+la propriété de son auteur, Capio98.
+
+Vous pouvez jouer au jeu en ligne à l'adresse https://capio98.github.io/wikicartes/
+
+Sans l'accord écrit de l'auteur, il est interdit de copier, modifier, republier,
+héberger ailleurs, vendre ou réutiliser tout ou partie de ces fichiers, y compris le
+contenu du fichier index.pck.
+
+Ce dépôt ne contient pas de licence libre : l'absence de licence libre signifie que
+tous les droits sont réservés (Code de la propriété intellectuelle, articles L111-1 et
+suivants).
+
+Contenus de tiers
+-----------------
+Certains éléments inclus dans le jeu appartiennent à d'autres auteurs et restent sous
+leur propre licence ; ils ne sont pas concernés par les restrictions ci-dessus. Liste
+complète dans le fichier CREDITS.md. En résumé :
+  - textes des cartes : articles de Wikipédia en français (CC BY-SA 4.0) ;
+  - illustrations des cartes : Wikimedia Commons (auteur et licence indiqués dans la
+    fiche de chaque carte) ;
+  - moteur de jeu : Godot Engine (licence MIT) ;
+  - graphismes, sons et musiques : Kenney, OpenGameArt, Poly Haven (CC0), Mixkit
+    (Mixkit Sound Effects Free License) ;
+  - icônes : game-icons.net (CC BY 3.0) ;
+  - police : Cinzel (SIL Open Font License 1.1).
+
+Contact : https://github.com/Capio98
