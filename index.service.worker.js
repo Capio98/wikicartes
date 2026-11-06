@@ -4,7 +4,7 @@
 //  - réseau d'abord : toujours la dernière version en ligne (le navigateur ne retélécharge
 //    pas un fichier qui n'a pas changé : simple vérification) ; la copie ne sert que hors connexion ;
 //  - une nouvelle version s'installe et s'active tout de suite, et recharge la page une fois.
-const CACHE_VERSION = '1794007522|4206497';
+const CACHE_VERSION = '1794008444|4590705';
 const CACHE_PREFIX = 'WikiCartes-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = 'index.offline.html';
